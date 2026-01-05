@@ -28,3 +28,6 @@ This is a React-based Employee Management Dashboard that allows users to log in,
 
 1. Username: admin
    Password: admin
+
+## Design decision
+This project uses mock authentication and local storage to keep the focus on frontend functionality and user experience, as backend implementation was not required for this assignment. The application structure is kept clean and modular so that a real backend API can be integrated easily in the future. I have experience working on backend and full-stack projects, and the same patterns used here can be extended to a server-based setup if needed.
